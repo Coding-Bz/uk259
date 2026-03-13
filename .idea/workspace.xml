@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="919c9945-fb3e-45fb-8324-2ad3a0b01fef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/demos/01_setup_verification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/01_setup_verification.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/04_Clustering_with_KMeans.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/04_Clustering_with_KMeans.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/05_Dimensionality_Reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/05_Dimensionality_Reduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/03_Data_Preprocessing_solutions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/03_Data_Preprocessing_solutions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/06_SupervisedML_Classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/06_SupervisedML_Classification.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +66,7 @@
       <workItem from="1773309860025" duration="13305000" />
       <workItem from="1773389551411" duration="111000" />
       <workItem from="1773389687987" duration="35000" />
+      <workItem from="1773389753723" duration="6272000" />
     </task>
     <servers />
   </component>
@@ -86,6 +85,11 @@
           <url>file://$PROJECT_DIR$/demos/04_Clustering_with_KMeans.ipynb</url>
           <line>492</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/demos/06_SupervisedML_Classification.ipynb</url>
+          <line>435</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
