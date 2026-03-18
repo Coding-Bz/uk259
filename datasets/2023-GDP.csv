@@ -1,0 +1,173 @@
+Country;Population;Capital;2023
+United States;329484123;Washington, D.C.;80706
+China;1402112000;Beijing;12509
+Germany;83240525;Berlin;53528
+Japan;125836021;Tokyo;33806
+India;1380004385;New Delhi;2481
+United Kingdom;67215293;London;49224
+France;67391582;Paris;45934
+Italy;59554023;Rome;38672
+Brazil;212559409;Brasília;10295
+Canada;38005238;Ottawa;54517
+Russia;144104080;Moscow;13899
+Mexico;128932753;Mexico City;13790
+Australia;25687041;Canberra;65330
+South Korea;51780579;Seoul;33098
+Spain;47351567;Madrid;33814
+Indonesia;273523621;Jakarta;4876
+Netherlands;16655799;Amsterdam;63803
+Turkey;84339067;Ankara;12814
+Saudi Arabia;34813867;Riyadh;32094
+Switzerland;8654622;Bern;99761
+Poland;37950802;Warsaw;20876
+Argentina;45376763;Buenos Aires;14187
+Belgium;11555997;Brussels;55049
+Sweden;10353442;Stockholm;55439
+Ireland;4994724;Dublin;106106
+Thailand;69799978;Bangkok;7182
+United Arab Emirates;9890400;Abu Dhabi;48311
+Israel;9216900;Jerusalem;55488
+Austria;8917205;Vienna;56042
+Singapore;5685807;Singapore;86616
+Norway;5379475;Oslo;87932
+Bangladesh;164689383;Dhaka;2551
+Philippines;109581085;Manila;3805
+Vietnam;97338583;Hanoi;4282
+Denmark;5831404;Copenhagen;68440
+Iran;83992953;Tehran;4466
+Malaysia;32365998;Kuala Lumpur;11379
+Egypt;102334403;Cairo;3457
+Hong Kong;7500700;City of Victoria;51166
+South Africa;59308690;Pretoria,Bloemfontein,Cape Town;6023
+Nigeria;206139587;Abuja;1597
+Colombia;50882884;Bogotá;6947
+Romania;19286123;Bucharest;18347
+Pakistan;220892331;Islamabad;1365
+Chile;19116209;Santiago;17068
+Finland;5530719;Helsinki;52762
+Portugal;10305564;Lisbon;27718
+Peru;32971846;Lima;7907
+Kazakhstan;18754440;Nur-Sultan;12919
+New Zealand;5084300;Wellington;48750
+Iraq;40222503;Baghdad;5565
+Algeria;44700000;Algiers;5364
+Greece;10715549;Athens;23772
+Qatar;2881060;Doha;71500
+Hungary;9749763;Budapest;21926
+Ukraine;44134693;Kyiv;4737
+Kuwait;4270563;Kuwait City;33832
+Ethiopia;114963583;Addis Ababa;1272
+Morocco;36910558;Rabat;3829
+Slovakia;5458827;Bratislava;24086
+Dominican Republic;10847904;Santo Domingo;10718
+Ecuador;17643060;Quito;6610
+Sudan;43849269;Khartoum;2183
+Oman;5106622;Muscat;21550
+Kenya;53771300;Nairobi;1952
+Guatemala;16858333;Guatemala City;5763
+Bulgaria;6927288;Sofia;15069
+Uzbekistan;34232050;Tashkent;2850
+Costa Rica;5094114;San José;16942
+Luxembourg;632275;Luxembourg;128936
+Angola;32866268;Luanda;2308
+Croatia;4047200;Zagreb;21662
+Sri Lanka;21919000;Sri Jayawardenepura Kotte;3672
+Panama;4314768;Panama City;18686
+Serbia;6908224;Belgrade;12009
+Lithuania;2794700;Vilnius;27956
+Tanzania;59734213;Dodoma;1187
+Uruguay;3473727;Montevideo;22798
+Ghana;31072945;Accra;2260
+Azerbaijan;10110116;Baku;7012
+Belarus;9398861;Minsk;7883
+Slovenia;2100126;Ljubljana;32642
+Myanmar;54409794;Naypyidaw;1233
+DR Congo;108407721;Kinshasa;628
+Turkmenistan;6031187;Ashgabat;8233
+Jordan;10203140;Amman;4456
+Cameroon;26545864;Yaoundé;1737
+Uganda;45741000;Kampala;1002
+Tunisia;11818618;Tunis;3978
+Bahrain;1701583;Manama;29356
+Bolivia;11673029;Sucre;3686
+Libya;6871287;Tripoli;6173
+Paraguay;7132530;Asunción;6276
+Cambodia;16718971;Phnom Penh;2430
+Latvia;1901548;Riga;22444
+Estonia;1331057;Tallinn;30201
+Nepal;29136808;Kathmandu;1378
+Zimbabwe;14862927;Harare;2156
+Honduras;9904608;Tegucigalpa;3232
+El Salvador;6486201;San Salvador;5391
+Cyprus;1207361;Nicosia;25195
+Iceland;366425;Reykjavik;80827
+Senegal;16743930;Dakar;1706
+Georgia;3714000;Tbilisi;8083
+Papua New Guinea;8947027;Port Moresby;2958
+Zambia;18383956;Lusaka;1331
+Bosnia and Herzegovina;3280815;Sarajevo;8639
+Trinidad and Tobago;1399491;Port of Spain;18213
+Armenia;2963234;Yerevan;8183
+Albania;2837743;Tirana;8375
+Malta;525285;Valletta;41896
+Guinea;13132792;Conakry;1541
+Mozambique;31255435;Maputo;623
+Mali;20250834;Bamako;869
+Mongolia;3278292;Ulan Bator;5922
+Burkina Faso;20903278;Ouagadougou;883
+Haiti;11402533;Port-au-Prince;1706
+Benin;12123198;Porto-Novo;1394
+Jamaica;2961161;Kingston;6840
+Botswana;2351625;Gaborone;7820
+Gabon;2225728;Libreville;7803
+Nicaragua;6624554;Managua;2613
+Afghanistan;40218234;Kabul;416
+Guyana;786559;Georgetown;20765
+Niger;24206636;Niamey;643
+Moldova;2617820;Chișinău;5393
+Laos;7275556;Vientiane;2067
+Madagascar;27691019;Antananarivo;506
+North Macedonia;2077132;Skopje;8606
+Brunei;437483;Bandar Seri Begawan;32963
+Mauritius;1265740;Port Louis;11499
+Bahamas;393248;Nassau;35897
+Rwanda;12952209;Kigali;1010
+Kyrgyzstan;6591600;Bishkek;1977
+Chad;16425859;N'Djamena;681
+Malawi;19129955;Lilongwe;602
+Namibia;2540916;Windhoek;4168
+Equatorial Guinea;1402985;Malabo;6678
+Tajikistan;9537642;Dushanbe;1161
+Mauritania;4649660;Nouakchott;2121
+Togo;8278737;Lomé;986
+Montenegro;621718;Podgorica;11886
+Barbados;287371;Bridgetown;23804
+Maldives;540542;Malé;12530
+Sierra Leone;7976985;Freetown;758
+Fiji;896444;Suva;5889
+Eswatini;1160164;Mbabane;3611
+Liberia;5057677;Monrovia;772
+Andorra;77265;Andorra la Vella;46812
+Aruba;106766;Oranjestad;33802
+Suriname;586634;Paramaribo;5494
+Belize;397621;Belmopan;7460
+Burundi;11890781;Gitega;193
+Central African Republic;4829764;Bangui;496
+Saint Lucia;183629;Castries;13555
+Gambia;2416664;Banjul;888
+Seychelles;98462;Victoria;16736
+Lesotho;2142252;Maseru;916
+Timor-Leste;1318442;Dili;1503
+Guinea-Bissau;1967998;Bissau;951
+Antigua and Barbuda;97928;Saint John's;21787
+Solomon Islands;686878;Honiara;2042
+Comoros;869595;Moroni;1590
+Grenada;112519;St. George's;11246
+Vanuatu;307150;Port Vila;3515
+Samoa;198410;Apia;4330
+Dominica;71991;Roseau;9833
+Micronesia;115021;Palikir;4084
+Palau;18092;Ngerulmud;15899
+Kiribati;119446;South Tarawa;2107
+Marshall Islands;59194;Majuro;6678
+Tuvalu;11792;Funafuti;6345
