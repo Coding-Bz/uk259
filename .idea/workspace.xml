@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="919c9945-fb3e-45fb-8324-2ad3a0b01fef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/datasets/Weltweiter_Score_2023.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demos/07_SupervisedML_LinearRegression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/07_SupervisedML_LinearRegression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demos/08_Neural_Networks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/demos/08_Neural_Networks.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +74,7 @@
       <workItem from="1773389551411" duration="111000" />
       <workItem from="1773389687987" duration="35000" />
       <workItem from="1773389753723" duration="16701000" />
+      <workItem from="1773822422600" duration="4071000" />
     </task>
     <servers />
   </component>
